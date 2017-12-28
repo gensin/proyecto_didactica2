@@ -13,7 +13,7 @@ DHT dht(DHTPin, DHTTYPE);
  
 void setup() {
    Serial.begin(9600);
-   Serial.println("DHTxx test!");
+   Serial.println("DHT11 comenzando!");
  
    dht.begin();
 }
