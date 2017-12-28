@@ -1,2 +1,2 @@
-# proyecto_didactica2
-Un repositorio para el código del proyecto de didáctica
+# Proyecto de Riego inteligente con Arduino
+Repositorio para el código del proyecto de didáctica 2 del master de profesorado de la UCM. El objetivo de esta práctica es desarrollar un sistema de riego inteligente para plantas con sensores de humedad de aire, humedad de tierra, temperatura y luz que dan los datos para abrir diferentes dispositivos (lámparas de calor, bomba peristáltica o ventilador).
